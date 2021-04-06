@@ -1,5 +1,5 @@
 # did_django_admin_otp
-Django project with a basic user authentication
+Django project thats add one time passwords to Django admin
 
 1) cd to development directory
 2) mkvirtualenv did_django_admin_otp
